@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jyotishankar Panda</h1>
+<h1 align="center">Hi 👋, I'm Anil kumar Behera</h1>
 <h3 align="center">A passionate frontend developer from India a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community.</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsp0299&label=Profile%20views&color=0e75b6&style=flat" alt="jsp0299" /> </p>
 
 - 💬 Ask me about **i am happy to help;**
 
-- 📫 How to reach me **jyotishankarpanda55@gmail.com**
+- 📫 How to reach me **anilkumarbehera352@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@its_me_jyoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@its_me_jyoti" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jyotishankar-panda-145382179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jyotishankar-panda-145382179" height="30" width="30" /></a>
+<a href="https://" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@its_me_jyoti" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/anil-kumar-behera-48ba7022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/anil-kumar-behera-48ba7022b/" height="30" width="30" /></a>
 <a href="https://instagram.com/iam_lipun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_lipun" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/@jyotishankarpan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jyotishankarpan1" height="30" width="30" /></a>
+<a href="https://https://www.hackerrank.com/anilkumarbehera5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.linkedin.com/in/anil-kumar-behera-48ba7022b/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
