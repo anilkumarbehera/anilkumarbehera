@@ -67,12 +67,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="" height="220" alt="streak graph"  />
-</div>
-
-###
