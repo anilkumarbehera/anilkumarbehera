@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQFxwCpWvPos5Q/profile-displayphoto-shrink_800_800/0/1699006447688?e=1718841600&v=beta&t=t_B7X3xIGTPVFKIloRvWhfOqj6PdQW8rJDKLlaRBRrw"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/anilakb/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" height="25" alt="linkedin logo"  />
 
 
 </div>
