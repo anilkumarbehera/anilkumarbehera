@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm AnilKumar Behera from odisha,India <br><br>- 🔭 I’m currently working on MERN Stack and Cloud Computing <br>- 📚 I'm currently learning Web Development,  Amazon Web Services <br>- ⚡ In my free time I am listening music, Solo travelling and teaching</p> <br> 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
+<p align="left">I'm AnilKumar Behera from India <br><br>- 🔭 I’m currently working on MERN Stack and Cloud Computing <br>- 📚 I'm currently learning Web Development,  Amazon Web Services <br>- ⚡ In my free time I am listening music, Solo travelling and teaching</p> <br> 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
 
 ###
 
